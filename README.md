@@ -2,6 +2,8 @@
 
 A study on Time Series using sequence to sequence model in TensorFlow. 
 
+[Blog Link](https://weiminwang.blog/2017/09/29/multivariate-time-series-forecast-using-seq2seq-in-tensorflow/)
+
 This repo follows the original post from: 
 
 weiminwang.blog/2017/09/29/multivariate-time-series-forecast-using-seq2seq-in-tensorflow/
